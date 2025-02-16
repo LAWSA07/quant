@@ -20,7 +20,7 @@ This project is built with a modern web stack combining a **Next.js** frontend a
 - [Acknowledgments](#acknowledgments)
 
 ## Screenshot:
-![Alt text](images/your-image.png)
+![Alt text](Screenshot%20(916).png)
 
 
 ---
