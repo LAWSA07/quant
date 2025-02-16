@@ -19,6 +19,10 @@ This project is built with a modern web stack combining a **Next.js** frontend a
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+## Screenshot:
+![Alt text](images/your-image.png)
+
+
 ---
 
 ## Features
