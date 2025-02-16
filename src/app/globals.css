@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.spline-container {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+}
+
+.spline-canvas {
+  width: 100%;
+  height: 100vh;
+}
+
+.bg-radial-gradient {
+  background: radial-gradient(
+    circle at center,
+    var(--tw-gradient-from),
+    var(--tw-gradient-to)
+  );
+}
